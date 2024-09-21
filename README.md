@@ -1,6 +1,11 @@
 # 💫 About Me:
-Software & Blockchain Engineer | Innovator in Zero-Knowledge Proofs & Quantum-Resistant Cryptography | Building the Future of Secure Blockchain Systems 🚀<br>
+🔭 I’m currently working on Projects involving NFT, DAO and DEF
 
+🌱 I’m currently learning Smart Contract Securities, Zk and Other EVM Compatible Blockchains
+
+👯 I’m looking to collaborate on Blockchain Projects, Researchs, Documentation and Security
+
+💬 Ask me about Solidity, Rust, Smart Contract, Blockchain
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/smartdev_x) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smartdev_x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smartdev_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephenjospeh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smartdev_x) 
