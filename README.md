@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Smart Contract Securities, Zk and Other EVM Compatible Blockchains
 
-👯 I’m looking to collaborate on Blockchain Projects, Researchs, Documentation and Security
+👯 I’m looking to collaborate on Blockchain Projects, Research, Documentation and Security
 
 💬 Ask me about Solidity, Rust, Smart Contract, Blockchain
 
